@@ -8,8 +8,6 @@
 
 typedef struct {
     int value;
-    int in;
-    int out;
     int counter;
     int total;
     pthread_mutex_t lock;

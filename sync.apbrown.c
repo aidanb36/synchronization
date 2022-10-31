@@ -14,7 +14,6 @@ int main() {
     // Open the threads
     pthread_create(&producerThread, NULL, producer, &s);
     pthread_create(&consumerThread, NULL, consumer, &s);
-
     //close threads - maybe necessary
     pthread_join(producerThread, NULL);
     pthread_join(consumerThread, NULL);
