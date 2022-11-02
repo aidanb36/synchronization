@@ -1,3 +1,3 @@
-C:/Users/aidan/CLionProjects/synchronization/cmake-build-debug/CMakeFiles/synchronization.dir
-C:/Users/aidan/CLionProjects/synchronization/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/aidan/CLionProjects/synchronization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/larsjensen/Desktop/CS 201/Assignment4/cmake-build-debug/CMakeFiles/synchronization.dir
+/Users/larsjensen/Desktop/CS 201/Assignment4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/larsjensen/Desktop/CS 201/Assignment4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

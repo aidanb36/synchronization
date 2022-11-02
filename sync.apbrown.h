@@ -10,6 +10,7 @@ typedef struct {
     int value;
     int counter;
     int total;
+    int numRead;
     pthread_mutex_t lock;
 } Sync;
 
