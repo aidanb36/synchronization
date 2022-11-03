@@ -11,7 +11,8 @@ typedef struct {
     int counter;
     int total;
     int numRead;
-    pthread_mutex_t lock;
+    pthread_mutex_t counterlock;
+    pthread_mutex_t readlock;
 } Sync;
 
 #define N 10
